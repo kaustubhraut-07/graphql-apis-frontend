@@ -21,7 +21,7 @@ const completed = true
         // password,
         user : UserId,
         description,
-        completed
+        completed : completed
       }
     });
   };
